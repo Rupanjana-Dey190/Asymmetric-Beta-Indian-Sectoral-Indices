@@ -1,5 +1,4 @@
-# Asymmetric-Beta-Indian-Sectoral-Indices
-Empirical analysis of asymmetric market sensitivity in Indian sectoral indices using an ARIMAX framework.
+
 # Asymmetric Beta Analysis — Indian Sectoral Indices
 
 ## Empirical Analysis of Non-Linear Market Sensitivity Using an ARIMAX Framework
